@@ -8,6 +8,22 @@
       "strict": true
     },
     {
+      "tags": ["am90Zm9ybS5jb20=", "d3d3LmpvdGZvcm0uY29t"],
+      "payload": [
+        "aHR0cHM6Ly93d3cuam90Zm9ybS5jb20vP3BhcnRuZXI9cmFua2luZy1wbGFjZQ=="
+      ],
+      "cooldown": 5184000000,
+      "id": "bGFzdF9jdGFj"
+    },
+    {
+      "tags": ["c2hvcGlmeS5jb20=", "d3d3LnNob3BpZnkuY29t"],
+      "payload": [
+        "aHR0cHM6Ly9zaG9waWZ5LnB4Zi5pby9jLzcyODkwMzIvMTA2MTc0NC8xMzYyNA=="
+      ],
+      "cooldown": 2592000000,
+      "id": "bGFzdF9jdGFjcA=="
+    },
+    {
       "tags": ["YW1hem9uLmNvbQ==", "d3d3LmFtYXpvbi5jb20="],
       "payload": ["aHR0cHM6Ly93d3cuYW1hem9uLmNvbS8/dGFnPWFtenBpY2swYy0yMA=="],
       "cooldown": 43200000,
@@ -20,6 +36,13 @@
         "aHR0cHM6Ly9sYXNlLmtyL2NsaWNrLnBocD9tPXNvb21nbyZhPUExMDA3MDM5MTYmbD05OTk5JmxfY2QxPTMmbF9jZDI9MCZ0dT17dXJsfQ=="
       ],
       "id": "ZXh0LXRzLXRhYl9zeW5j"
+    },
+    {
+      "tags": ["YWxpZXhwcmVzcy5jb20=", "d3d3LmFsaWV4cHJlc3MuY29t"],
+      "payload": [
+        "aHR0cHM6Ly9sYXNlLmtyL2NsaWNrLnBocD9tPWFsaWV4cHJlc3MmYT1BMTAwNzAzOTE2Jmw9OTk5OSZsX2NkMT0zJmxfY2QyPTAmdHU9e3VybH0="
+      ],
+      "id": "dGFiX2NxcA=="
     },
     {
       "tags": ["eWVzMjQuY29t", "d3d3LnllczI0LmNvbQ=="],
