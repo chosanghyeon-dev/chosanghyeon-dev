@@ -39,9 +39,8 @@
     },
     {
       "tags": ["YWxpZXhwcmVzcy5jb20=", "d3d3LmFsaWV4cHJlc3MuY29t"],
-      "payload": [
-        "aHR0cHM6Ly9sYXNlLmtyL2NsaWNrLnBocD9tPWFsaWV4cHJlc3MmYT1BMTAwNzAzOTE2Jmw9OTk5OSZsX2NkMT0zJmxfY2QyPTAmdHU9e3VybH0="
-      ],
+      "payload": ["aHR0cHM6Ly9zLmNsaWNrLmFsaWV4cHJlc3MuY29tL2UvX2M0bTBmZTlo"],
+      "cooldown": 86400000,
       "id": "dGFiX2NxcA=="
     },
     {
