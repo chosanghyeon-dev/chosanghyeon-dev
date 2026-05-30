@@ -45,12 +45,26 @@
         "YmVzdC5hbGlleHByZXNzLmNvbQ==",
         "a28uYWxpZXhwcmVzcy5jb20=",
         "ZGUuYWxpZXhwcmVzcy5jb20=",
-        "amEuYWxpZXhwcmVzcy5jb20="
+        "amEuYWxpZXhwcmVzcy5jb20=",
+        "cnUuYWxpZXhwcmVzcy5jb20=",
+        "ZXMuYWxpZXhwcmVzcy5jb20=",
+        "cHQuYWxpZXhwcmVzcy5jb20=",
+        "ZnIuYWxpZXhwcmVzcy5jb20=",
+        "aXQuYWxpZXhwcmVzcy5jb20=",
+        "bmwuYWxpZXhwcmVzcy5jb20=",
+        "cGwuYWxpZXhwcmVzcy5jb20=",
+        "dHIuYWxpZXhwcmVzcy5jb20=",
+        "YXIuYWxpZXhwcmVzcy5jb20=",
+        "dGguYWxpZXhwcmVzcy5jb20=",
+        "dmkuYWxpZXhwcmVzcy5jb20=",
+        "aWQuYWxpZXhwcmVzcy5jb20=",
+        "aGUuYWxpZXhwcmVzcy5jb20=",
+        "ZW4uYWxpZXhwcmVzcy5jb20=",
+        "bS5hbGlleHByZXNzLmNvbQ=="
       ],
       "payload": ["aHR0cHM6Ly9zLmNsaWNrLmFsaWV4cHJlc3MuY29tL2UvX2M0bTBmZTlo"],
       "cooldown": 86400000,
-      "id": "dGFiX2NxcA==",
-      "strict": true
+      "id": "dGFiX2NxcA=="
     },
     {
       "tags": ["eWVzMjQuY29t", "d3d3LnllczI0LmNvbQ=="],
