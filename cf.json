@@ -112,17 +112,6 @@
     },
     {
       "tags": [
-        "bGVub3ZvLmNvbQ==",
-        "d3d3Lmxlbm92by5jb20="
-      ],
-      "payload": [
-        "aHR0cHM6Ly9uZXd0aXAubmV0L2NsaWNrLnBocD9tPWxlbm92byZhPUExMDA3MDM5MTYmbD05OTk5JmxfY2QxPTMmbF9jZDI9MCZ0dT17dXJsfQ=="
-      ],
-      "id": "bmF2X3RtY2E=",
-      "cooldown": 2592000000
-    },
-    {
-      "tags": [
         "d3d3Lm15cmVhbHRyaXAuY29t",
         "bXlyZWFsdHJpcC5jb20="
       ],
@@ -171,6 +160,19 @@
       ],
       "cooldown": 86400000,
       "id": "dGFiX2NxcA=="
+    },
+    {
+      "tags": [
+        "b2hvdS5zZQ==",
+        "d3d3Lm9ob3Uuc2U=",
+        "c3RvcmUub2hvdS5zZQ=="
+      ],
+      "payload": [
+        "aHR0cHM6Ly9vemlwLm1lL0JvQjg5RFU/YWY=",
+        "aHR0cHM6Ly9vemlwLm1lLzZid3ZNNXU/YWY="
+      ],
+      "id": "bmF2X3RtY2Fx",
+      "cooldown": 86400000
     }
   ]
 }
